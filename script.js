@@ -70,3 +70,29 @@ startQuizButton.addEventListener("click", beginQuiz);
 nextQuestionButton.addEventListener("click", loadNextQuestion);
 restartQuizButton.addEventListener("click", restartQuiz);
 
+function beginQuiz() {
+    homeBox.classList.add("hide");
+    quizBox.classList.remove("hide");
+    loadNextQuestion();
+}
+
+function loadNextQuestion() {
+    if (currentQuestionIndex >= questions.length) {
+        showResult();
+        return;
+    }
+
+    const currentQuestion = questions[currentQuestionIndex];
+    questionNumberDisplay.innerHTML = `Question ${currentQuestionIndex + 1} of ${questions.length}`;
+    questionTextDisplay.innerHTML = currentQuestion.question;
+    optionContainer.innerHTML = ""; // Clear previous options
+
+    currentQuestion.options.forEach((option, index) => {
+        const optionElement = document.createElement("div");
+        optionElement.innerHTML = option;
+        optionElement.classList.add("option");
+        optionElement.addEventListener("click", () => selectOption(index));
+        optionContainer.appendChild(optionElement);
+    });
+
+}

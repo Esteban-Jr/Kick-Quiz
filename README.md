@@ -7,6 +7,7 @@ With a sleek design and user-friendly interface, players can easily navigate thr
 The live link can be found here - [Kick & Quiz](https://esteban-jr.github.io/Kick-Quiz/)
 
 ![Kick & Quiz Am I Responsive Image](./assets/images/responsive.png)
+
 ## Features
 
 ### Existing Features

@@ -16,3 +16,12 @@ The live link can be found here - [Kick & Quiz](https://esteban-jr.github.io/Kic
 - Responsive design for mobile and desktop devices
 - Fade-in animations for a smooth user experience
 - Restart functionality to retake the quiz
+
+### Home Page
+
+The home page serves as the welcoming entry point for users, designed with a clean and visually appealing layout. It features an inviting header that introduces the quiz and encourages users to participate.
+
+Key elements of the home page include:
+- Quiz Title: A prominent title that captures the essence of the quiz and its focus on football.
+- Instructions: Brief instructions explaining how to start the quiz and what to expect, ensuring that users feel comfortable and informed before they begin.
+- Start Quiz Button: A clearly labeled button that invites users to dive straight into the quiz, enhancing the user experience with a simple call-to-action.

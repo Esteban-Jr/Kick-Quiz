@@ -26,3 +26,5 @@ Key elements of the home page include:
 - Quiz Title: A prominent title that captures the essence of the quiz and its focus on football.
 - Instructions: Brief instructions explaining how to start the quiz and what to expect, ensuring that users feel comfortable and informed before they begin.
 - Start Quiz Button: A clearly labeled button that invites users to dive straight into the quiz, enhancing the user experience with a simple call-to-action.
+
+![Kick & Quiz Home Page](./assets/images/home_page.png)

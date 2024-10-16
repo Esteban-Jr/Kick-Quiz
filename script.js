@@ -134,3 +134,11 @@ function showResult() {
     document.querySelector(".percentage").innerText = ((correctAnswers / questions.length) * 100).toFixed(2) + '%';
     document.querySelector(".total-score").innerText = `${correctAnswers} / ${questions.length}`;
 }
+
+function restartQuiz() {
+    currentQuestionIndex = 0;
+    correctAnswers = 0;
+    resultBox.classList.add("hide");
+    homeBox.classList.remove("hide");
+    nextQuestionButton.classList.add("hide");
+}

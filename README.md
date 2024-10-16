@@ -125,7 +125,6 @@ The Results Box not only serves as a conclusion to the quiz but also as a motiva
 - [Google Fonts](https://fonts.google.com/)
 - [W3C](https://www.w3.org/)
 - [JSHint](https://jshint.com/)
-- [ChatGPT](https://chatgpt.com/)
 
 ## Deployment
 
@@ -139,3 +138,15 @@ The project was deployed using GitHub pages. The steps to deploy using GitHub pa
 6. Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
 
 The live link can be found here - [Kick & Quiz](https://esteban-jr.github.io/Kick-Quiz/)
+
+## Credits
+
+### Resources Used
+- [Youtube](https://www.youtube.com/)
+- [W3Schools](https://www.w3schools.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [ChatGPT](https://chatgpt.com/)
+
+## Acknowledgments
+
+The Code Institute slack community for their quick responses and very helpful feedback.

@@ -24,7 +24,9 @@ The home page serves as the welcoming entry point for users, designed with a cle
 
 Key elements of the home page include:
 - **Quiz Title**: A prominent title that captures the essence of the quiz and its focus on football.
+
 - **Instructions**: Brief instructions explaining how to start the quiz and what to expect, ensuring that users feel comfortable and informed before they begin.
+
 - **Start Quiz Button**: A clearly labeled button that invites users to dive straight into the quiz, enhancing the user experience with a simple call-to-action.
 
 ![Kick & Quiz Home Page](./assets/images/home_page.png)
@@ -49,3 +51,26 @@ Key Features of the Quiz Section:
 ![Kick & Quiz, Quiz Box](./assets/images/quiz_box.png)
 
 The quiz section is designed with user experience in mind, featuring responsive design and engaging animations that create a seamless transition between questions, making the learning process enjoyable and interactive.
+
+### Result Section
+
+The Results Box provides users with a comprehensive summary of their performance after completing the quiz. It serves as a pivotal moment in the quiz experience, allowing players to reflect on their knowledge and see how well they did.
+
+Key Features of the Results Box:
+
+- **Score Summary**: The results box prominently displays the user’s total score, showing the number of correct answers out of the total questions. This clear presentation helps users quickly gauge their performance.
+
+- **Detailed Breakdown**: In addition to the overall score, the results box includes a detailed breakdown of the quiz results, showcasing:
+  - Total Questions: The total number of questions presented during the quiz.
+  - Correct Answers: How many questions the user answered correctly.
+  - Total Attempts: The total number of questions the user attempted, including both correct and incorrect answers.
+  - Total Incorrect: A count of the questions answered incorrectly, providing insights into areas for improvement.
+  - Percentage Score: A calculated percentage reflecting the user’s success rate, which can motivate users to improve their knowledge.
+
+- **Replay Option**: Users are presented with the option to restart the quiz directly from the results box. This encourages further engagement and allows them to challenge themselves to achieve a higher score.
+
+- **Visual Design**: The results box is styled to be visually appealing and easy to read, with clear typography and layout. This enhances the user experience and ensures that the information is accessible.
+
+![Kick & Quiz Result Box](./assets/images/result_box.png)
+
+The Results Box not only serves as a conclusion to the quiz but also as a motivational tool, encouraging users to learn more about football and improve their scores in future attempts.

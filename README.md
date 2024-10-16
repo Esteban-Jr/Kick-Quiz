@@ -7,3 +7,12 @@ With a sleek design and user-friendly interface, players can easily navigate thr
 The live link can be found here - [Kick & Quiz](https://esteban-jr.github.io/Kick-Quiz/)
 
 ![Kick & Quiz Am I Responsive Image](./assets/images/responsive.png)
+## Features
+
+### Existing Features
+
+- Interactive quiz with multiple-choice questions
+- Score tracking to see how well you did
+- Responsive design for mobile and desktop devices
+- Fade-in animations for a smooth user experience
+- Restart functionality to retake the quiz

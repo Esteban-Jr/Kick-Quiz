@@ -30,3 +30,22 @@ Key elements of the home page include:
 ![Kick & Quiz Home Page](./assets/images/home_page.png)
 
 The home page is responsive, ensuring that users on mobile devices have an equally enjoyable experience. With its friendly design and intuitive navigation, the home page sets the tone for an engaging quiz experience.
+
+
+### Quiz Section
+
+The quiz section is the heart of the Football Quiz website, where users engage with a series of carefully curated multiple-choice questions that test their knowledge of football. This interactive segment is designed to be both fun and challenging, providing an enjoyable experience for users of all skill levels.
+
+Key Features of the Quiz Section:
+
+- **Dynamic Question Display**: Each question is presented clearly, along with multiple answer options, allowing users to easily read and select their responses. The current question number and total number of questions are displayed at the top, helping users keep track of their progress.
+
+- **Interactive Options**: Users can click on their chosen answer, which triggers immediate feedback. Correct answers are highlighted in green, while incorrect ones are marked in red, enhancing the learning experience by reinforcing correct knowledge.
+
+- **Next Question Navigation**: After answering a question, users can proceed to the next one with a "Next Question" button, which becomes visible only after an answer is selected. This feature keeps the quiz flowing smoothly and encourages users to stay engaged.
+
+- **Final Results Display**: Upon completion of the quiz, users are taken to a results page that summarizes their performance, including the total number of questions, correct answers, and percentage score. This allows users to reflect on their performance and strive for improvement.
+
+![Kick & Quiz, Quiz Box](./assets/images/quiz_box.png)
+
+The quiz section is designed with user experience in mind, featuring responsive design and engaging animations that create a seamless transition between questions, making the learning process enjoyable and interactive.

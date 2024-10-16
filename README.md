@@ -118,3 +118,11 @@ The Results Box not only serves as a conclusion to the quiz but also as a motiva
 - CSS
 - JavaScript
 
+### Frameworks - Libraries - Programs Used
+- [Am I Responsive](http://ami.responsivedesign.is/)
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) 
+- [GitHub](https://github.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [W3C](https://www.w3.org/)
+- [JSHint](https://jshint.com/)
+- [ChatGPT](https://chatgpt.com/)

@@ -122,3 +122,15 @@ function selectOption(selectedIndex) {
   nextQuestionButton.classList.add("visible");
   nextQuestionButton.style.display = 'block'; // Ensure it is displayed
 }
+
+function showResult() {
+    quizBox.classList.add("hide");
+    resultBox.classList.remove("hide");
+
+    document.querySelector(".total-questions").innerText = questions.length;
+    document.querySelector(".correct-answers").innerText = correctAnswers;
+    document.querySelector(".total-attempts").innerText = currentQuestionIndex;
+    document.querySelector(".total-incorrect").innerText = currentQuestionIndex - correctAnswers;
+    document.querySelector(".percentage").innerText = ((correctAnswers / questions.length) * 100).toFixed(2) + '%';
+    document.querySelector(".total-score").innerText = `${correctAnswers} / ${questions.length}`;
+}

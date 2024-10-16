@@ -74,3 +74,12 @@ Key Features of the Results Box:
 ![Kick & Quiz Result Box](./assets/images/result_box.png)
 
 The Results Box not only serves as a conclusion to the quiz but also as a motivational tool, encouraging users to learn more about football and improve their scores in future attempts.
+
+### Features Left to Implement
+
+- User can create a an account
+- Timer
+- Leaderboard
+- Hints 
+- More questions
+

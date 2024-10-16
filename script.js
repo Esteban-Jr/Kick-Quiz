@@ -96,3 +96,29 @@ function loadNextQuestion() {
     });
 
 }
+
+function selectOption(selectedIndex) {
+  const currentQuestion = questions[currentQuestionIndex];
+  const options = optionContainer.querySelectorAll(".option");
+
+  // Disable all options after selecting one
+  options.forEach((option, index) => {
+      option.classList.add("already-answered"); // Disable further clicks
+      if (index === currentQuestion.answer) {
+          option.classList.add("correct");
+      } else {
+          option.classList.add("incorrect");
+      }
+  });
+
+  // Check if the selected option is correct
+  if (selectedIndex === currentQuestion.answer) {
+      correctAnswers++;
+  }
+
+  currentQuestionIndex++;
+
+  // Make the next question button visible
+  nextQuestionButton.classList.add("visible");
+  nextQuestionButton.style.display = 'block'; // Ensure it is displayed
+}

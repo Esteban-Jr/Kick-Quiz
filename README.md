@@ -104,7 +104,7 @@ The Results Box not only serves as a conclusion to the quiz but also as a motiva
 
 - #### JavaScript
 
-  - I got warnings that included this 'is available in ES6', regarding when I used const and let.
+  - I got warnings that included this 'is available in ES6', regarding when I used const and let. I was unable to fix this.
   - [JSHint](https://jshint.com/).
 
 - #### Accessibility 

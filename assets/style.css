@@ -90,3 +90,30 @@ header {
   cursor: pointer;
   display: inline-block;
 }
+
+.quiz-box .question-number,
+.quiz-box .question-text,
+.quiz-box .option-container,
+.quiz-box .next-question-btn,
+.quiz-box .answers-indicator {
+  width: 100%;
+  float: left;
+}
+
+.quiz-box .question-number {
+  font-size: 18px;
+  color: #182235;
+  font-weight: 600;
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 10px;
+  line-height: 25px;
+}
+
+.quiz-box .question-text {
+  font-size: 22px;
+  color: #000000;
+  line-height: 28px;
+  font-weight: 400;
+  padding: 20px 0;
+  margin: 0;
+}

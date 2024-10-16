@@ -112,3 +112,9 @@ The Results Box not only serves as a conclusion to the quiz but also as a motiva
   - The site achieved a Lighthouse accessibility score of 96% which confirms that the colours and fonts chosen are easy to read and accessible.
 
   ![Lighthouse](/assets/images/lighthouse.png)
+
+### Languages
+- HTML5
+- CSS
+- JavaScript
+

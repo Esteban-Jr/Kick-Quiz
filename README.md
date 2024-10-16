@@ -89,3 +89,26 @@ The Results Box not only serves as a conclusion to the quiz but also as a motiva
 - I verified that this project is responsive, visually appealing, and functional across all standard screen sizes using the DevTools device toolbar.
 - I ensured that the heading, question display area, options area, results section, and score display are all clear and easy to comprehend.
 - I confirmed that all elements and functionalities operate smoothly across various devices and screen sizes.
+
+## Validator Testing
+
+- #### HTML
+
+  - No errors were returned when passing through the official W3C Markup Validator.
+  - [W3C Markup Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Festeban-jr.github.io%2FKick-Quiz%2F).
+
+- #### CSS
+
+  - No errors were found when passing through the official W3C CSS Validator. 
+  - [W3C CSS Validation - Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Festeban-jr.github.io%2FKick-Quiz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
+
+- #### JavaScript
+
+  - I got warnings that included this 'is available in ES6', regarding when I used const and let.
+  - [JSHint](https://jshint.com/).
+
+- #### Accessibility 
+
+  - The site achieved a Lighthouse accessibility score of 96% which confirms that the colours and fonts chosen are easy to read and accessible.
+
+  ![Lighthouse](/assets/images/lighthouse.png)

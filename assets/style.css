@@ -22,3 +22,33 @@ header {
   font-size: 1.8rem;
   position: relative;
 }
+
+/* Main container */
+.custom-box {
+  max-width: 700px; /* Fixed width */
+  width: 700px; /* Ensures the box doesn't shrink */
+  background-color: #ffffff;
+  margin: 250px auto;
+  padding: 30px;
+  border-radius: 10px;
+  animation: fadeInRight 1s ease;
+}
+
+/* Fade-in animation */
+@keyframes fadeInRight {
+  0% {
+    transform: translateX(40px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+.custom-box::before,
+.custom-box::after {
+  content: '';
+  clear: both;
+  display: table;
+}

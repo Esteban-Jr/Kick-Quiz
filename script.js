@@ -65,3 +65,8 @@ const questions = [
       answer: 1
     }
 ];
+
+startQuizButton.addEventListener("click", beginQuiz);
+nextQuestionButton.addEventListener("click", loadNextQuestion);
+restartQuizButton.addEventListener("click", restartQuiz);
+

@@ -14,3 +14,11 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+/* Header */
+header {
+  color: aliceblue;
+  text-align: center;
+  font-size: 1.8rem;
+  position: relative;
+}

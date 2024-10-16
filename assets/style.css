@@ -189,3 +189,28 @@ header {
 .quiz-box .option-container .option.correct {
   color: #ffffff;
 }
+
+.quiz-box .next-question-btn {
+  width: 150px; /* Set a fixed width for the button */
+  height: 40px; /* Set a fixed height for the button */
+  opacity: 0; /* Initially invisible */
+  transition: opacity 0.3s ease; /* Smooth transition for visibility */
+  display: none; /* Ensure it doesn't take up space */
+  background-color: rgb(13,11,110); /* Background color */
+  color: #ffffff; /* Text color */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners */
+  font-family: 'Times New Roman', Times, serif; /* Font family */
+  font-size: 16px; /* Font size */
+  cursor: pointer; /* Pointer cursor */
+  margin-top: 15px; /* Space above button */
+}
+
+.quiz-box .next-question-btn.visible {
+  opacity: 1; /* Visible when answered */
+  display: block; /* Ensure it is displayed */
+}
+
+.quiz-box .btn {
+  margin: 15px 0;
+}

@@ -4,6 +4,6 @@ The Football Quiz Website is an engaging and interactive platform designed for f
 
 With a sleek design and user-friendly interface, players can easily navigate through questions, track their scores, and replay the quiz for a chance to improve their results. This project showcases the power of web technologies and is a testament to the love of football. Join the fun and see how well you know the beautiful game!
 
-The live link can be found here - [Harry Potter Quiz](https://esteban-jr.github.io/Kick-Quiz/)
+The live link can be found here - [Kick & Quiz](https://esteban-jr.github.io/Kick-Quiz/)
 
-![Harry Potter Quiz Am I Responsive Image](./assets/images/responsive.png)
+![Kick & Quiz Am I Responsive Image](./assets/images/responsive.png)

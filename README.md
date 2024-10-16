@@ -6,4 +6,4 @@ With a sleek design and user-friendly interface, players can easily navigate thr
 
 The live link can be found here - [Harry Potter Quiz](https://esteban-jr.github.io/Kick-Quiz/)
 
-![Harry Potter Quiz Am I Responsive Image](/Kick-Quiz/assets/images/responsive.png)
+![Harry Potter Quiz Am I Responsive Image](./assets/images/responsive.png)

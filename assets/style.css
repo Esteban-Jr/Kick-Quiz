@@ -277,3 +277,24 @@ header {
     margin-bottom: 15px;
   }
 }
+
+/* Footer */
+footer {
+  width: 100%;
+  position: relative;
+  color: white;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+/* Responsiveness */
+@media screen and (max-width: 768px) {
+  .custom-box {
+    margin-top: 30px;
+    width: 95%;
+  }
+}
+
+.hide {
+  display: none; /* Add hide class for elements to hide */
+}

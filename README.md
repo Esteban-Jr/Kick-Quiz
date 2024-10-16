@@ -28,3 +28,5 @@ Key elements of the home page include:
 - Start Quiz Button: A clearly labeled button that invites users to dive straight into the quiz, enhancing the user experience with a simple call-to-action.
 
 ![Kick & Quiz Home Page](./assets/images/home_page.png)
+
+The home page is responsive, ensuring that users on mobile devices have an equally enjoyable experience. With its friendly design and intuitive navigation, the home page sets the tone for an engaging quiz experience.

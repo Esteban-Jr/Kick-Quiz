@@ -83,3 +83,9 @@ The Results Box not only serves as a conclusion to the quiz but also as a motiva
 - Hints 
 - More questions
 
+## Testing
+
+- I verified that the quiz functions correctly across multiple browsers, including Chrome, Firefox, and Safari.
+- I verified that this project is responsive, visually appealing, and functional across all standard screen sizes using the DevTools device toolbar.
+- I ensured that the heading, question display area, options area, results section, and score display are all clear and easy to comprehend.
+- I confirmed that all elements and functionalities operate smoothly across various devices and screen sizes.
